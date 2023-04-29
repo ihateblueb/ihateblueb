@@ -2,7 +2,6 @@
 - 👀 I’m interested in design & frontend development along with making plugins for Minecraft
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Hyacinth Hello (any suggestions are welcome!)
-- 📫 You can reach me on Discord @blueb#7368
 
 <!---
 livelaughlemon/livelaughlemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
