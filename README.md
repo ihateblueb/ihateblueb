@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Harper (@livelaughlemon)
-- 👀 I’m interested in design & frontend development along with making plugins for Minecraft
-- 🌱 I’m currently learning Java
-
-<!---
-livelaughlemon/livelaughlemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3> Hi there, I'm blueb! </h3>
+<p> I'm a student learning how to create websites, apps, and Minecraft plugins. I've worked in Java, Vue, HTML, JS, and dabbled in Python. </p>
+<p> Me and two of my friends run a Minecraft server and create things for it under Orchid Development. [Check us out!](https://github.com/orchidtowny) </p>
