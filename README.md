@@ -4,6 +4,6 @@
 <p> I'm currently working on Starling, more on that soon. </p>
 <hr>
 <span>
-  <a rel="me" href="https://mstdn.social/@ihateblueb">Mastodon</a>
+  <a rel="me" href="https://mstdn.social/@ihateblueb">Mastodon</a> &bull;
   <a href="https://discord.gg/84TZGRkXy6">Discord</a>
 </span>
